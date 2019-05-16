@@ -1,0 +1,71 @@
+/* Header */
+#header-nav
+{
+	border-radius: 0;
+	margin-bottom: 0px;
+	border: 0px;
+	border-bottom: 1px solid #466991;
+	background-color: #507299;
+}
+
+nav a{
+	color: white!important;
+}
+
+nav .dropdown-menu {
+	background-color: #507299;
+}
+nav li {
+	background-color: #507299;
+}
+/* End of Header */
+
+/* Main-content */
+.element{
+	position: relative;
+    border: 0px;
+    background-color: #507299;
+}
+div.img {
+    width: 100%;
+}
+div.img img:hover{
+	opacity: 0.5;
+	border: 3px solid #507299;
+}
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+img.selected{
+	opacity: 0.5;	
+}
+
+div.img.selected{
+	background-color: 	#32CD32;
+}
+
+.col-lg-2{
+	padding: 0px;
+	margin: 0px;
+}
+/* End of main-content*/
+
+
+body {
+	font-family: 'Baloo Tamma', cursive;
+	color: white;
+	padding-top: 50px;
+}
+
+h1{
+	font-size: 23px;
+	margin: 0px;
+
+}
+
+.glyphicon{
+	color: green;
+	font-size: 5em;
+}
